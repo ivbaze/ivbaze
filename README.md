@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)"">
+<source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
   <source media="(prefers-color-scheme: light)" srcset="">
   <img alt="Shows a Banner Header with my Full name with a computer desk background." src="">
 </picture>
