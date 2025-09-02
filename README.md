@@ -17,3 +17,29 @@
 - 📫 How to reach me: LinkedIN (https://www.linkedin.com/in/faith-omijie/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm Nigerian and love introducing my friends and new acquaintances to my favorite dish Fufu and Egusi. 😋🍽
+
+<details>
+<summary>My top Coding Languages</summary>
+
+- | Rank |   Languages   |
+  |-----:|---------------|
+  |     1|     SQL       |
+  |     2|     R         |
+  |     3|     PYTHON    |
+
+</details>
+
+
+<details>
+<summary>My top Visualization Tools</summary>
+
+- | Rank | Visualization Tool|
+  |-----:|---------------|
+  |     1|     Tableau       |
+  |     2|     PowerBI        |
+  |     3|     Lookr    |
+
+</details>
+
+
+
