@@ -1,7 +1,7 @@
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
-  <source media="(prefers-color-scheme: light)" srcset="">
-  <img alt="Shows a Banner Header with my Full name with a computer desk background." src="">
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/ivbaze/ivbaze/blob/main/White%20and%20Black%20Simple%20Social%20Media%20LinkedIn%20Banner%20(1).png?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ivbaze/ivbaze/blob/main/White%20and%20Black%20Simple%20Social%20Media%20LinkedIn%20Banner%20(1).png?raw=true">
+  <img alt="Shows a Banner Header with my Full name with a computer desk background." src="https://github.com/ivbaze/ivbaze/blob/main/White%20and%20Black%20Simple%20Social%20Media%20LinkedIn%20Banner%20(1).png?raw=true">
 </picture>
 
 # About Me 👋
