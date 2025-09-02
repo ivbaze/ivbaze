@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="">
+  <source media="(prefers-color-scheme: dark)"">
   <source media="(prefers-color-scheme: light)" srcset="">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="">
+  <img alt="Shows a Banner Header with my Full name with a computer desk background." src="">
 </picture>
 
 # About Me 👋
